@@ -1,0 +1,2 @@
+# ilkAdim
+deneme
